@@ -1,0 +1,18 @@
+C:\Users\tsetz\Documents\Visual Studio 2015\Projects\ASD\Labs\FinalPractical\FinalPractical\bin\Debug\FinalPractical.exe.config
+C:\Users\tsetz\Documents\Visual Studio 2015\Projects\ASD\Labs\FinalPractical\FinalPractical\bin\Debug\FinalPractical.exe
+C:\Users\tsetz\Documents\Visual Studio 2015\Projects\ASD\Labs\FinalPractical\FinalPractical\bin\Debug\FinalPractical.pdb
+C:\Users\tsetz\Documents\Visual Studio 2015\Projects\ASD\Labs\FinalPractical\FinalPractical\obj\Debug\FinalPractical.csprojResolveAssemblyReference.cache
+C:\Users\tsetz\Documents\Visual Studio 2015\Projects\ASD\Labs\FinalPractical\FinalPractical\obj\Debug\FinalPractical.exe
+C:\Users\tsetz\Documents\Visual Studio 2015\Projects\ASD\Labs\FinalPractical\FinalPractical\obj\Debug\FinalPractical.pdb
+C:\Users\AnDrew parker\Desktop\FinalPractical\bin\Debug\FinalPractical.exe.config
+C:\Users\AnDrew parker\Desktop\FinalPractical\obj\Debug\FinalPractical.exe
+C:\Users\AnDrew parker\Desktop\FinalPractical\obj\Debug\FinalPractical.pdb
+C:\Users\AnDrew parker\Desktop\FinalPractical\obj\Debug\FinalPractical.csprojResolveAssemblyReference.cache
+C:\Users\AnDrew parker\Desktop\FinalPractical\bin\Debug\FinalPractical.exe
+C:\Users\AnDrew parker\Desktop\FinalPractical\bin\Debug\FinalPractical.pdb
+C:\Users\AnDrew parker\Desktop\Parker_AnDrew_FinalPractical\bin\Debug\FinalPractical.exe.config
+C:\Users\AnDrew parker\Desktop\Parker_AnDrew_FinalPractical\obj\Debug\FinalPractical.exe
+C:\Users\AnDrew parker\Desktop\Parker_AnDrew_FinalPractical\obj\Debug\FinalPractical.pdb
+C:\Users\AnDrew parker\Desktop\Parker_AnDrew_FinalPractical\obj\Debug\FinalPractical.csprojResolveAssemblyReference.cache
+C:\Users\AnDrew parker\Desktop\Parker_AnDrew_FinalPractical\bin\Debug\FinalPractical.exe
+C:\Users\AnDrew parker\Desktop\Parker_AnDrew_FinalPractical\bin\Debug\FinalPractical.pdb

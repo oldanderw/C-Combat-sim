@@ -1,0 +1,8 @@
+/Users/David/School/AnDrew_Parker_portflio/Components/C# projects/FinalPractical_Advanced_Scalable_Data_Infrastructures/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/David/School/AnDrew_Parker_portflio/Components/C# projects/FinalPractical_Advanced_Scalable_Data_Infrastructures/bin/Debug/FinalPractical.exe.config
+/Users/David/School/AnDrew_Parker_portflio/Components/C# projects/FinalPractical_Advanced_Scalable_Data_Infrastructures/bin/Debug/FinalPractical.exe.mdb
+/Users/David/School/AnDrew_Parker_portflio/Components/C# projects/FinalPractical_Advanced_Scalable_Data_Infrastructures/bin/Debug/FinalPractical.pdb
+/Users/David/School/AnDrew_Parker_portflio/Components/C# projects/FinalPractical_Advanced_Scalable_Data_Infrastructures/bin/Debug/FinalPractical.exe
+/Users/David/School/AnDrew_Parker_portflio/Components/C# projects/FinalPractical_Advanced_Scalable_Data_Infrastructures/obj/Debug/FinalPractical.exe
+/Users/David/School/AnDrew_Parker_portflio/Components/C# projects/FinalPractical_Advanced_Scalable_Data_Infrastructures/obj/Debug/FinalPractical.exe.mdb
+/Users/David/School/AnDrew_Parker_portflio/Components/C# projects/FinalPractical_Advanced_Scalable_Data_Infrastructures/obj/Debug/FinalPractical.pdb
